@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:StringModifier}",
+            "name": "Debug StringModifier",
+            "program": "${workspaceFolder:StringModifier}/.build/debug/StringModifier",
+            "preLaunchTask": "swift: Build Debug StringModifier"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:StringModifier}",
+            "name": "Release StringModifier",
+            "program": "${workspaceFolder:StringModifier}/.build/release/StringModifier",
+            "preLaunchTask": "swift: Build Release StringModifier"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:StringModifier}",
+            "name": "Debug string-modifier",
+            "program": "${workspaceFolder:StringModifier}/.build/debug/string-modifier",
+            "preLaunchTask": "swift: Build Debug string-modifier"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:StringModifier}",
+            "name": "Release string-modifier",
+            "program": "${workspaceFolder:StringModifier}/.build/release/string-modifier",
+            "preLaunchTask": "swift: Build Release string-modifier"
+        }
+    ]
+}
