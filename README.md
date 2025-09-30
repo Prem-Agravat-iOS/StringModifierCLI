@@ -19,7 +19,7 @@ Whether you need plain line-separated text, quoted items, or automatically numbe
 ### Clone and Build
 
 ```bash
-git clone https://github.com/your-username/string-modifier.git
+git clone https://github.com/Prem-Agravat-iOS/StringModifierCLI.git
 cd string-modifier
 swift build -c release
 cp .build/release/string-modifier /usr/local/bin
