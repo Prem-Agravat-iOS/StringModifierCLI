@@ -136,42 +136,42 @@ Here are the available formats:
 
 10. **Alphabetized (a, b, c...)**
 
-  ```
-  a.Climate Change
-  b.Greenwashing
-  c.TWA(Truth without Apology)
-  d.Mission 2030
-  ```
+     ```
+     a.Climate Change
+     b.Greenwashing
+     c.TWA(Truth without Apology)
+     d.Mission 2030
+     ```
 
 11.  **Alphabetized lowercase with double quotes**
 
-  ```
-  a."Climate Change"
-  b."Greenwashing"
-  c."TWA(Truth without Apology)"
-  d."Mission 2030"
-  ```
+     ```
+     a."Climate Change"
+     b."Greenwashing"
+     c."TWA(Truth without Apology)"
+     d."Mission 2030"
+     ```
 
 12.  **Alphabetized lowercase with single quotes**
 
-  ```
-  a.'Climate Change'
-  b.'Greenwashing'
-  c.'TWA(Truth without Apology)'
-  d.'Mission 2030'
-  ```
+     ```
+     a.'Climate Change'
+     b.'Greenwashing'
+     c.'TWA(Truth without Apology)'
+     d.'Mission 2030'
+     ```
 
 13.  **Inline, double-quoted**
 
-  ```
-  "Climate Change", "Greenwashing", "TWA(Truth without Apology)", "Mission 2030"
-  ```
+     ```
+     "Climate Change", "Greenwashing", "TWA(Truth without Apology)", "Mission 2030"
+     ```
 
 14.  **Inline, single-quoted**
 
-  ```
-  'Climate Change', 'Greenwashing', 'TWA(Truth without Apology)', 'Mission 2030'
-  ```
+     ```
+     'Climate Change', 'Greenwashing', 'TWA(Truth without Apology)', 'Mission 2030'
+     ```
 
 ---
 
