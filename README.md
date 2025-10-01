@@ -198,8 +198,3 @@ This project is open-source under the **MIT License**.
 Feel free to use, modify, and share.
 
 ---
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
-
