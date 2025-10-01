@@ -10,7 +10,7 @@ Whether you need plain line-separated text, quoted items, or automatically numbe
 * Convert comma-separated strings into different formats
 * Support for plain lists, quoted lists (`" "` or `' '`), and enumerated lists (numbered or alphabetized)
 * Multiple formatting styles (14 in total)
-* Easy to install and run from terminal
+* Easy to install and run from terminal(mac and linux user) and from command prompt(for windows user)
 
 ---
 
