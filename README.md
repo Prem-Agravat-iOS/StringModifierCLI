@@ -18,14 +18,23 @@ Whether you need plain line-separated text, quoted items, or automatically numbe
 
 ### Clone and Build
 
+Select directory where you want to clone and run following commands.
+
 ```bash
 git clone https://github.com/Prem-Agravat-iOS/StringModifierCLI.git
 cd string-modifier
 swift build -c release
-cp .build/release/string-modifier /usr/local/bin
+
+For Mac and Linux user
+cp .build/release/StringModifier /usr/local/bin
+
+For Windows user
+copy the full path of directory which contains .exe file, for example: D:\StringModifierCLI\StringModifier\.build\release
+Add this to environment variable
+Close the terminal
 ```
 
-Now you can run `string-modifier` from anywhere.
+Now you can run `StringModifier` from anywhere.
 
 ---
 
@@ -34,11 +43,8 @@ Now you can run `string-modifier` from anywhere.
 Run the tool in your terminal:
 
 ```bash
-string-modifier
+StringModifier comma-separated String --option option you want to format
 ```
-
-Paste your comma-separated list when prompted, then choose a format option (1–14).
-The tool will output your strings in the desired style.
 
 ---
 

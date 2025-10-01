@@ -91,9 +91,9 @@ struct StringModifier: ParsableCommand {
             }
         } else {
             if (option != nil) {
-                print("!!!Please enter valid option value!!!.\nRead the documentation for details: https://github.com/your-username/string-modifier.git.")
+                print("!!!Please enter valid option value!!!.\nRead the 'Format Options' section for details: https://github.com/your-username/string-modifier.git.")
             } else {
-                print("!!!Please enter option flag and value to modify your inputed string!!!.\nRead the documentation for details: https://github.com/your-username/string-modifier.git")
+                print("!!!Please enter option flag and value to modify your inputed string!!!.\nRead the 'Usage' and 'Format Options' section for details: https://github.com/your-username/string-modifier.git")
             }
         }
     }
