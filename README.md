@@ -204,5 +204,6 @@ Feel free to use, modify, and share.
 
 If you found this tool helpful, consider buying me a book!📓
 
-UPI
-!(\Images\upi-donate.png)
+**UPI**
+
+<img width="450" height="450" alt="upi-donate" src="https://github.com/user-attachments/assets/964a8280-0017-46e2-a790-a02c83fabc16" />
