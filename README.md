@@ -43,7 +43,7 @@ Now you can run `StringModifier` from anywhere.
 Run the tool in your terminal:
 
 ```bash
-StringModifier comma-separated String --option option you want to format
+StringModifier 'comma-separated string' --option 'option you want to format'
 ```
 
 ---
