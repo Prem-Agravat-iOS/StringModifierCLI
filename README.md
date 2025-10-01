@@ -197,3 +197,12 @@ Climate Change, Greenwashing, TWA(Truth without Apology)
 
 This project is open-source under the **MIT License**.
 Feel free to use, modify, and share.
+
+---
+
+# Support Me
+
+If you found this tool helpful, consider buying me a book!📓
+
+UPI
+!(\Images\upi-donate.png)
