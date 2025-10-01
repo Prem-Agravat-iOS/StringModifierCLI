@@ -23,6 +23,7 @@ Select directory where you want to clone and run following commands.
 ```bash
 git clone https://github.com/Prem-Agravat-iOS/StringModifierCLI.git
 cd StringModifierCLI
+cd StringModifier
 swift build -c release
 
 For Mac and Linux user
