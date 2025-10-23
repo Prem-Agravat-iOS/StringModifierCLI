@@ -190,3 +190,18 @@ Climate Change, Greenwashing, TWA(Truth without Apology)
 "Greenwashing"
 "TWA(Truth without Apology)"
 ```
+
+---
+
+## Any suggestion or collaboration🤝
+### Feel free to reach out at **premagaravat@gmail.com**
+
+---
+
+## Support Me
+
+### UPI
+
+<img width="450" height="450" alt="upi-donate" src="https://github.com/user-attachments/assets/7c8cccfb-2b89-4499-8306-7022091d5bdf" />
+
+
