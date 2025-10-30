@@ -10,7 +10,7 @@ Whether you need plain line-separated text, quoted items, or automatically numbe
 * Convert comma-separated strings into different formats
 * Support for plain lists, quoted lists (`" "` or `' '`), and enumerated lists (numbered or alphabetized)
 * Multiple formatting styles (14 in total)
-* Easy to install and run from terminal
+* Easy to install and run from terminal(mac and linux user) and from command prompt(for windows user)
 
 ---
 
@@ -136,42 +136,42 @@ Here are the available formats:
 
 10. **Alphabetized (a, b, c...)**
 
-  ```
-  a.Climate Change
-  b.Greenwashing
-  c.TWA(Truth without Apology)
-  d.Mission 2030
-  ```
+     ```
+     a.Climate Change
+     b.Greenwashing
+     c.TWA(Truth without Apology)
+     d.Mission 2030
+     ```
 
 11.  **Alphabetized lowercase with double quotes**
 
-  ```
-  a."Climate Change"
-  b."Greenwashing"
-  c."TWA(Truth without Apology)"
-  d."Mission 2030"
-  ```
+     ```
+     a."Climate Change"
+     b."Greenwashing"
+     c."TWA(Truth without Apology)"
+     d."Mission 2030"
+     ```
 
 12.  **Alphabetized lowercase with single quotes**
 
-  ```
-  a.'Climate Change'
-  b.'Greenwashing'
-  c.'TWA(Truth without Apology)'
-  d.'Mission 2030'
-  ```
+     ```
+     a.'Climate Change'
+     b.'Greenwashing'
+     c.'TWA(Truth without Apology)'
+     d.'Mission 2030'
+     ```
 
 13.  **Inline, double-quoted**
 
-  ```
-  "Climate Change", "Greenwashing", "TWA(Truth without Apology)", "Mission 2030"
-  ```
+     ```
+     "Climate Change", "Greenwashing", "TWA(Truth without Apology)", "Mission 2030"
+     ```
 
 14.  **Inline, single-quoted**
 
-  ```
-  'Climate Change', 'Greenwashing', 'TWA(Truth without Apology)', 'Mission 2030'
-  ```
+     ```
+     'Climate Change', 'Greenwashing', 'TWA(Truth without Apology)', 'Mission 2030'
+     ```
 
 ---
 
@@ -193,17 +193,6 @@ Climate Change, Greenwashing, TWA(Truth without Apology)
 
 ---
 
-## 📄 License
+## Any suggestion or collaboration🤝
+### Feel free to reach out at **premagaravat@gmail.com**
 
-This project is open-source under the **MIT License**.
-Feel free to use, modify, and share.
-
----
-
-# Support Me
-
-If you found this tool helpful, consider buying me a book!📓
-
-**UPI**
-
-<img width="450" height="450" alt="upi-donate" src="https://github.com/user-attachments/assets/964a8280-0017-46e2-a790-a02c83fabc16" />
